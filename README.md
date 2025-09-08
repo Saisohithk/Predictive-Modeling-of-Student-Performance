@@ -151,7 +151,7 @@ This project demonstrates a full data science workflow for student performance p
 
 ---
 
-## 🙋‍♀️ Author
-
-**Saisohith K**  
-💼 [GitHub](https://github.com/Saisohithk)  
+## 🤝 Connect
+- 📫 Email: Saisohithkommana@gmail.com
+- 💻 GitHub: [Saisohithk](https://github.com/Saisohithk)
+- 🔗 LinkedIn: [Sai Sohith](www.linkedin.com/in/sai-sohith-410s62s11)
